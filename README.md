@@ -1,5 +1,7 @@
 # HR Attrition Analysis Dashboard (Excel)
 
+![Dashboard](Dashboard.png)
+
 ## Project Overview
 
 This project analyzes employee attrition using Microsoft Excel and presents key HR insights through an interactive dashboard.
@@ -66,15 +68,6 @@ This dashboard helps answer questions such as:
 
 ---
 
-## Dashboard Preview
-
-> Upload **Dashboard.png** in this repository and replace the line below with:
-
-```markdown
-![Dashboard](Dashboard.png)
-```
-
----
 
 ## Files Included
 
