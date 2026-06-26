@@ -1,6 +1,6 @@
 # HR Attrition Analysis Dashboard (Excel)
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard.png.png)
 
 ## Project Overview
 
